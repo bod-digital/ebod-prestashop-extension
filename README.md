@@ -2,7 +2,6 @@
 
 ## Table of Contents
 - [Overview](#overview)
-- [Features](#features)
 - [Installation](#installation)
 - [Troubleshooting](#troubleshooting)
 - [License](#license)
@@ -11,12 +10,6 @@
 ## Overview
 
 The PrestaShop EBOD Extension is a powerful tool designed to enhance your PrestaShop store with advanced features and capabilities. This README provides essential information on installing, configuring, and using this extension to improve your eCommerce business.
-
-## Features
-
-- **Feature 1**: A brief description of a key feature.
-- **Feature 2**: Another key feature with a brief description.
-- **Feature 3**: Highlight additional features.
 
 ## Installation
 
