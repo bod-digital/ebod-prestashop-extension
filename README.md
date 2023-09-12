@@ -38,7 +38,7 @@ If you encounter issues or have questions regarding the PrestaShop EBOD Extensio
 
 ## License
 
-The PrestaShop EBOD Extension is licensed under the [License Name](LICENSE) license. Please review the license for usage details and restrictions.
+The PrestaShop EBOD Extension is licensed under the [MIT](LICENSE) license. Please review the license for usage details and restrictions.
 
 ## Contact
 
